@@ -1,0 +1,15 @@
+{
+  "upload_type": "lesson",  
+  "title": "course template",
+  "license": "cc-by-sa-4.0",
+  "keywords": [
+    "training"
+  ],
+  "creators": [
+    {
+      "name": "Jane Doe",
+      "affiliation": "SIB Swiss Institute of Bioinformatics",
+      "orcid": "0000-0000-0000-0000"
+    }
+  ]
+}
