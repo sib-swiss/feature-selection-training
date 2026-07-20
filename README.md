@@ -1,25 +1,22 @@
-# Course template
+# Feature Selection for Bioinformatics with Python
 
-This is a template for SIB-training course repository when there is no website attached that you can use to [create a new repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template).
+This repository regroups works on the [Feature Selection for Bioinformatics with Python](https://www.sib.swiss/training/course/FEATS) course of the SIB. 
 
-> If you want to have a repository with a website attached go to the [course_website_template](https://github.com/sib-swiss/course_website_template) instead.
+## pre-requisites
 
-This templates offers a number of basic elements that should be common to all course repository, 
-like a readme, a file describing the license, or giving zenodo information when publishing a release.
+The course is targeted to life scientists who are already familiar with the Python programing language and who have good grasp of statistics and Machine Learning core concepts.
 
- * README.md    : this file. It will be presented on the front page of your repository.
- * .zenodo.json : JSON file to preset the data when publishing a release with zenodo. Change the course title and content creator part.
- * LICENSE.md   : CC-BY-4.0 license ; this file is used by github to show this on your repository
+In order to follow the course you need to have installed python and [jupyter notebooks](https://jupyter.org/) (or a similar IDE able to handle jupyter notebooks such as VSCode).
 
+If you need help with the installation, you can refer to these [tips and instructions](https://github.com/sib-swiss/first-steps-with-python-training/blob/master/setting_up_your_environment.md) (NB: this links to another github repo).
 
+In addition, there are a number of libraries to install. [TODO]
 
-We also propose three folders to organize course content.
+## course organization
 
- * slides/ : put there the pdf file of your slides
- * data/   : put there data files used in demonstrations, exercises, and hands-on
- * assets/ : put there "resource" files such as the pptx files of your slides, some images files, pdfs which are not directly part of the slides (such as a manual, a cheatsheet, ...), ...
+Additionally, the course contains some slides which can be found 
 
+The course is organized in several section where we alternate theory presented in slides (in the `slides/` folder) and notebooks (in the `notebooks/` folder).
 
-
-Any contribution to this course material is highly appreciated 👍. 
-Please [create an issue](https://github.com/sib-swiss/course_template/issues) or submit a pull request to do so.
+The jupyter notebooks interleaves theory, code demo, and exercises.
+Solutions to each practical can be found in the `solutions/` folder and should be loadable directly in the jupyter notebook themselves.
