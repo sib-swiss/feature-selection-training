@@ -16,14 +16,14 @@ See the dedicated [environment setup file](env_setup.md).
 
 The course is organized in several section where we alternate theory presented in slides (in the `slides/` folder) and notebooks (in the `notebooks/` folder).
 
- * `chapter1_univariate_filtering.ipynb`[notebooks/chapter1_univariate_filtering.ipynb]
- * `chapter1.5_removing_colinear_variables.ipynb`[notebooks/chapter1.5_removing_colinear_variables.ipynb]
- * `chapter2_wrapper_method_RFE_SFS.ipynb`[notebooks/chapter2_wrapper_method_RFE_SFS.ipynb]
- * `chapter3_embedded_method.ipynb`[notebooks/chapter3_embedded_method.ipynb]
- * `chapter4_boruta.ipynb`[notebooks/chapter4_boruta.ipynb]
- * `chapter5_knockoffs.ipynb`[notebooks/chapter5_knockoffs.ipynb]
- * `chapter6_stability_selection.ipynb`[notebooks/chapter6_stability_selection.ipynb]
- * `chapter7_SHAP.ipynb`[notebooks/chapter7_SHAP.ipynb]
+ * [`chapter1_univariate_filtering.ipynb`](notebooks/chapter1_univariate_filtering.ipynb)
+ * [`chapter1.5_removing_colinear_variables.ipynb`](notebooks/chapter1.5_removing_colinear_variables.ipynb)
+ * [`chapter2_wrapper_method_RFE_SFS.ipynb`](notebooks/chapter2_wrapper_method_RFE_SFS.ipynb)
+ * [`chapter3_embedded_method.ipynb`](notebooks/chapter3_embedded_method.ipynb)
+ * [`chapter4_boruta.ipynb`](notebooks/chapter4_boruta.ipynb)
+ * [`chapter5_knockoffs.ipynb`](notebooks/chapter5_knockoffs.ipynb)
+ * [`chapter6_stability_selection.ipynb`](notebooks/chapter6_stability_selection.ipynb)
+ * [`chapter7_SHAP.ipynb`](notebooks/chapter7_SHAP.ipynb)
 
 The jupyter notebooks interleaves theory, code demo, and exercises.
 
